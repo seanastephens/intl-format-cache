@@ -1,4 +1,4 @@
-# This repo was migrated to the [monorepo](https://github.com/formatjs/formatjs/tree/master/packages/intl-locales-supported)
+# This repo was migrated to the [monorepo](https://github.com/formatjs/formatjs/tree/master/packages/intl-format-cache)
 
 
 Intl Format Cache
